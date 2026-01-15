@@ -1,0 +1,1 @@
+curl -X DELETE "https://generativelanguage.googleapis.com/v1beta/interactions/YOUR_INTERACTION_ID?key=AIzaSyD9XMBhyC3HJCnc5PATTmZC22-3KkYTMM8"
